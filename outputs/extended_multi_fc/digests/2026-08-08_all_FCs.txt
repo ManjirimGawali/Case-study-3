@@ -1,0 +1,10 @@
+FC status Aug 8: 1 RED · 1 BLUE · 3 GREEN · 1 GREY
+
+🔴 FC-KOL       RED    On Aug 8, CM2 = 5.6%, 9.4 pp below the 15% target (RED). CM1 = 58.8% (target 65–70%). Above max, by impact: Manpower 34.4% (max 30%, +₹2,800; amount normal, low
+🔵 FC-DELHI     BLUE   On Aug 8, CM2 = 36.6%, suspiciously high (BLUE, above 33%). Possibly under-reported: Power & Fuel booked as ₹0 (normal ₹16.4k). Recommend: Do not report this ma
+⚪ FC-HYD       GREY   Data problem: revenue is missing or zero, so margins could not be computed.
+🟢 FC-BLR       GREEN  On Aug 8, margins held (CM2 = 19.9%, GREEN) but one line is outside target: Overheads 13.6% (max 12%, +₹2,186; ₹18.6k vs normal ₹12.4k). Recommend: Audit overhe
+🟢 FC-CHN       GREEN  On Aug 8, all clear: CM2 = 24.4%, CM1 = 67.6%, every cost line within target.
+🟢 FC-PUNE      GREEN  On Aug 8, margins held (CM2 = 18.4%, GREEN) but 3 lines are outside target: Power & Fuel 13.7% (max 13%, +₹650; amount normal, low revenue), Packaging 7.7% (max
+
+Dashboard: http://localhost:4200/?run=climw7bra67

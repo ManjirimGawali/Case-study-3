@@ -1,0 +1,16 @@
+FC-PUNE · Sat 8 Aug 2026 · GREEN (Healthy)
+
+On Aug 8, margins held (CM2 = 18.4%, GREEN) but 3 lines are outside target: Power & Fuel 13.7% (max 13%, +₹650; amount normal, low revenue), Packaging 7.7% (max 7%, +₹606; amount normal, low revenue), Equipment Rentals 8.1% (max 8%, +₹102; mainly low revenue, amount -6.3% vs normal). Recommend: Power cost was normal; revenue was low.
+
+Revenue ₹90,417 · CM1 ₹57,119 (63.2%, target 65–70%) · CM2 ₹16,617 (18.4%, target 15–30%)
+  Manpower              ₹26,363   29.2%  (target 25–30%)
+  Packaging              ₹6,935    7.7%  (target 4–7%)
+  Power & Fuel          ₹12,404   13.7%  (target 9–13%)
+  FC Rent               ₹12,160   13.5%  (target 13–18%)
+  Equipment Rentals      ₹7,335    8.1%  (target 4–8%)
+  Overheads              ₹8,603    9.5%  (target 8–12%)
+
+  + 3 minor breaches
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 G
+Dashboard: http://localhost:4200/?run=climw7br9j6&fc=FC-PUNE&date=2026-08-08

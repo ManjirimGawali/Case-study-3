@@ -1,0 +1,22 @@
+FC-PUNE · Wed 8 Jul 2026 · RED (Margin breach. Act today)
+
+On Jul 8, CM2 = 9.6%, 5.4 pp below the 15% target (RED). CM1 = 61.4% (target 65–70%). Above max, by impact: FC Rent 19.9% (max 18%, +₹1,777; mainly low revenue, amount +10.2% vs normal), Overheads 13.6% (max 12%, +₹1,427; amount normal, low revenue), Packaging 8.2% (max 7%, +₹1,122; amount normal, low revenue), Power & Fuel 13.6% (max 13%, +₹520; mainly low revenue, amount -6.7% vs normal) and 1 more. Revenue was 19.1% below this FC's recent normal while total cost moved -4.8%. Recommend: Costs were normal; revenue fell. Check volumes/billing for the day before cutting costs.
+
+Revenue ₹91,879 · CM1 ₹56,382 (61.4%, target 65–70%) · CM2 ₹8,805 (9.6%, target 15–30%)
+  Manpower              ₹27,943   30.4%  (target 25–30%)
+  Packaging              ₹7,554    8.2%  (target 4–7%)
+  Power & Fuel          ₹12,464   13.6%  (target 9–13%)
+  FC Rent               ₹18,315   19.9%  (target 13–18%)
+  Equipment Rentals      ₹4,346    4.7%  (target 4–8%)
+  Overheads             ₹12,452   13.6%  (target 8–12%)
+
+Top issues:
+  1. CM2 9.6% (15–30% (±3 pp)) BELOW_TARGET, ₹4,977
+  2. CM1 61.4% (65–70% (±3 pp)) BELOW_TARGET, ₹3,339
+  3. FC Rent 19.9% (13–18%) ABOVE_MAX, ₹1,777
+  4. Overheads 13.6% (8–12%) ABOVE_MAX, ₹1,427
+  5. Packaging 8.2% (4–7%) ABOVE_MAX, ₹1,122
+  + 2 minor breaches
+
+Last 7 days: Jul 2 G · Jul 3 Y · Jul 4 G · Jul 5 G · Jul 6 G · Jul 7 G · Jul 8 R
+Dashboard: http://localhost:4200/?run=climw7br9wf&fc=FC-PUNE&date=2026-07-08

@@ -1,0 +1,7 @@
+FC-HYD · Sat 8 Aug 2026 · GREY (No usable data)
+
+Data problem: revenue is missing or zero, so margins could not be computed.
+
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 G
+Dashboard: http://localhost:4200/?run=climw7bra67&fc=FC-HYD&date=2026-08-08

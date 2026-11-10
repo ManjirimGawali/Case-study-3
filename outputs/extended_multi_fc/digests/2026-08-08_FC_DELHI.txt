@@ -1,0 +1,18 @@
+FC-DELHI · Sat 8 Aug 2026 · BLUE (Suspiciously high margin. Check for unbooked costs)
+
+On Aug 8, CM2 = 36.6%, suspiciously high (BLUE, above 33%). Possibly under-reported: Power & Fuel booked as ₹0 (normal ₹16.4k). Recommend: Do not report this margin yet. Confirm all cost invoices for the day are booked. Power & Fuel is ₹0. Confirm the power & fuel entry.
+
+Revenue ₹1,61,816 · CM1 ₹1,08,417 (67.0%, target 65–70%) · CM2 ₹59,276 (36.6%, target 15–30%)
+  Manpower              ₹44,499   27.5%  (target 25–30%)
+  Packaging              ₹8,900    5.5%  (target 4–7%)
+  Power & Fuel               ₹0    0.0%  (target 9–13%)
+  FC Rent               ₹23,250   14.4%  (target 13–18%)
+  Equipment Rentals      ₹9,709    6.0%  (target 4–8%)
+  Overheads             ₹16,182   10.0%  (target 8–12%)
+
+Top issues:
+  1. CM2 36.6% (15–30% (±3 pp)) ABOVE_TARGET, ₹10,731
+  2. Power & Fuel 0.0% (9–13%) BELOW_MIN, ₹14,563
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 B
+Dashboard: http://localhost:4200/?run=climw7bra67&fc=FC-DELHI&date=2026-08-08

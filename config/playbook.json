@@ -1,0 +1,34 @@
+{
+  "_note": "Recommended action per line x direction x cause. cause: cost (the rupee amount moved) | revenue (amount normal, revenue moved) | unknown (no baseline yet).",
+  "manpower": {
+    "above": { "cost": "Review shift roster, overtime and temp-labour bookings for the day", "revenue": "Manpower spend was normal; volume was low. Flex staffing to forecast volume", "unknown": "Review shift roster, overtime and temp-labour bookings" },
+    "below": { "any": "Check that all manpower (incl. contract labour) was booked for the day" }
+  },
+  "packaging": {
+    "above": { "cost": "Check packaging material issued vs orders shipped (wastage, wrong carton sizes)", "revenue": "Packaging use tracked volume; low revenue per order. Check order mix", "unknown": "Check packaging material issued vs orders shipped" },
+    "below": { "any": "Confirm packaging consumption was booked" }
+  },
+  "powerFuel": {
+    "above": { "cost": "Check DG-set running hours / power outage and fuel bills", "revenue": "Power cost was normal; revenue was low", "unknown": "Check DG-set hours and fuel bills" },
+    "below": { "any": "Power & fuel looks under-booked. Confirm the electricity/diesel entry" }
+  },
+  "rent": {
+    "above": { "cost": "Rent amount changed. Check rent allocation / duplicate booking", "revenue": "Rent is fixed; the breach is a low-revenue effect. Focus on volume", "unknown": "Check rent allocation for the day" },
+    "below": { "any": "Rent looks under-allocated. Confirm the daily rent accrual" }
+  },
+  "equipment": {
+    "above": { "cost": "Review equipment rentals: idle MHE, extra hires, off-hire missed", "revenue": "Equipment cost was normal; revenue was low", "unknown": "Review equipment rental hires" },
+    "below": { "any": "Confirm equipment rental accrual was booked" }
+  },
+  "overheads": {
+    "above": { "cost": "Audit overhead bills booked for the day (one-off or misposted expense?)", "revenue": "Overheads were normal; revenue was low", "unknown": "Audit overhead bills for the day" },
+    "below": { "any": "Overheads look under-booked. Confirm accruals" }
+  },
+  "_day": {
+    "RED": "Cost audit today: start with the top contributors above",
+    "RED_REVENUE": "Costs were normal; revenue fell. Check volumes/billing for the day before cutting costs",
+    "BLUE": "Do not report this margin yet. Confirm all cost invoices for the day are booked",
+    "CM1": "Review direct costs (manpower and packaging) against volume",
+    "LINE_ONLY": "Margins held, but a line drifted. Review the flagged line before it compounds"
+  }
+}

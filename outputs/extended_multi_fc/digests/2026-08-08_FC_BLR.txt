@@ -1,0 +1,20 @@
+FC-BLR · Sat 8 Aug 2026 · GREEN (Healthy)
+
+On Aug 8, margins held (CM2 = 19.9%, GREEN) but one line is outside target: Overheads 13.6% (max 12%, +₹2,186; ₹18.6k vs normal ₹12.4k). Recommend: Audit overhead bills booked for the day (one-off or misposted expense?).
+
+Revenue ₹1,36,671 · CM1 ₹88,563 (64.8%, target 65–70%) · CM2 ₹27,139 (19.9%, target 15–30%)
+  Manpower              ₹40,728   29.8%  (target 25–30%)
+  Packaging              ₹7,380    5.4%  (target 4–7%)
+  Power & Fuel          ₹14,760   10.8%  (target 9–13%)
+  FC Rent               ₹20,150   14.7%  (target 13–18%)
+  Equipment Rentals      ₹7,927    5.8%  (target 4–8%)
+  Overheads             ₹18,587   13.6%  (target 8–12%)
+
+Top issues:
+  1. Overheads 13.6% (8–12%) ABOVE_MAX, ₹2,186
+
+Watch:
+  • Manpower rising 4 days in a row (27.7 → 28.4 → 29.0 → 29.8%; max 30%), heading for a breach
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 G
+Dashboard: http://localhost:4200/?run=climw7bra67&fc=FC-BLR&date=2026-08-08

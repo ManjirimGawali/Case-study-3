@@ -1,0 +1,16 @@
+{
+  "name": "fc-pnl-monitor-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": { "dev": "node --watch src/index.js", "start": "node src/index.js" },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "exceljs": "^4.4.0",
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5",
+    "multer": "^2.0.2",
+    "nodemailer": "^6.9.16",
+    "pdfjs-dist": "^4.10.38"
+  }
+}

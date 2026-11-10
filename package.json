@@ -1,0 +1,18 @@
+{
+  "name": "fc-pnl-monitor",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Daily FC P&L monitor and alert digest. Free, local, deterministic core with optional local LLM.",
+  "workspaces": ["server", "client"],
+  "scripts": {
+    "dev": "npm run dev --workspace server & npm run dev --workspace client",
+    "build": "npm run build --workspace client",
+    "start": "npm run start --workspace server",
+    "monitor": "node server/src/cli.js",
+    "test": "node --test server/test/*.test.js",
+    "generate": "node tools/generate.js",
+    "eval": "node tools/evaluate.js"
+  },
+  "engines": { "node": ">=20" }
+}

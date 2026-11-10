@@ -1,0 +1,5 @@
+FC status Jul 8: 1 RED
+
+🔴 FC-PUNE      RED    On Jul 8, CM2 = 9.6%, 5.4 pp below the 15% target (RED). CM1 = 61.4% (target 65–70%). Above max, by impact: FC Rent 19.9% (max 18%, +₹1,777; mainly low revenue,
+
+Dashboard: http://localhost:4200/?run=climw7br9wf

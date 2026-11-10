@@ -1,0 +1,12 @@
+{
+  "_note": "FC -> manager mapping. Default sample configuration for reference and unit tests.",
+  "managers": {
+    "FC-PUNE": { "manager": "Pune FC Manager", "email": "pune.manager@example.com" },
+    "FC-DELHI": { "manager": "Delhi FC Manager", "email": "delhi.manager@example.com" },
+    "FC-BLR": { "manager": "Bengaluru FC Manager", "email": "blr.manager@example.com" },
+    "FC-KOL": { "manager": "Kolkata FC Manager", "email": "kol.manager@example.com" },
+    "FC-CHN": { "manager": "Chennai FC Manager", "email": "chn.manager@example.com" },
+    "FC-HYD": { "manager": "Hyderabad FC Manager", "email": "hyd.manager@example.com" }
+  },
+  "leadership": { "manager": "Operations Leadership", "email": "leadership@example.com" }
+}

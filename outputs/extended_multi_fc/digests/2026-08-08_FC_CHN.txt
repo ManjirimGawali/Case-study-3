@@ -1,0 +1,15 @@
+FC-CHN · Sat 8 Aug 2026 · GREEN (Healthy)
+
+On Aug 8, all clear: CM2 = 24.4%, CM1 = 67.6%, every cost line within target.
+
+Revenue ₹1,14,783 · CM1 ₹77,558 (67.6%, target 65–70%) · CM2 ₹27,992 (24.4%, target 15–30%)
+  Manpower              ₹30,537   26.6%  (target 25–30%)
+  Packaging              ₹6,688    5.8%  (target 4–7%)
+  Power & Fuel          ₹13,020   11.3%  (target 9–13%)
+  FC Rent               ₹17,050   14.9%  (target 13–18%)
+  Equipment Rentals      ₹6,718    5.9%  (target 4–8%)
+  Overheads             ₹12,778   11.1%  (target 8–12%)
+
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 G
+Dashboard: http://localhost:4200/?run=climw7bra67&fc=FC-CHN&date=2026-08-08

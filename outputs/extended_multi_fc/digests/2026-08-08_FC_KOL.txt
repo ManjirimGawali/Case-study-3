@@ -1,0 +1,23 @@
+FC-KOL · Sat 8 Aug 2026 · RED (Margin breach. Act today)
+
+On Aug 8, CM2 = 5.6%, 9.4 pp below the 15% target (RED). CM1 = 58.8% (target 65–70%). Above max, by impact: Manpower 34.4% (max 30%, +₹2,800; amount normal, low revenue), FC Rent 19.4% (max 18%, +₹880; amount normal, low revenue), Power & Fuel 13.8% (max 13%, +₹480; amount normal, low revenue), Overheads 12.5% (max 12%, +₹320; amount normal, low revenue). Revenue was 19.7% below this FC's recent normal while total cost moved +0.5%. Recommend: Costs were normal; revenue fell. Check volumes/billing for the day before cutting costs.
+
+Revenue ₹64,000 · CM1 ₹37,600 (58.8%, target 65–70%) · CM2 ₹3,600 (5.6%, target 15–30%)
+  Manpower              ₹22,000   34.4%  (target 25–30%)
+  Packaging              ₹4,400    6.9%  (target 4–7%)
+  Power & Fuel           ₹8,800   13.8%  (target 9–13%)
+  FC Rent               ₹12,400   19.4%  (target 13–18%)
+  Equipment Rentals      ₹4,800    7.5%  (target 4–8%)
+  Overheads              ₹8,000   12.5%  (target 8–12%)
+
+Top issues:
+  1. CM2 5.6% (15–30% (±3 pp)) BELOW_TARGET, ₹6,000
+  2. CM1 58.8% (65–70% (±3 pp)) BELOW_TARGET, ₹4,000
+  3. Manpower 34.4% (25–30%) ABOVE_MAX, ₹2,800
+  + 3 minor breaches
+
+Watch:
+  • Packaging rising 4 days in a row (4.4 → 4.8 → 5.2 → 6.9%; max 7%), heading for a breach
+
+Last 7 days: Aug 2 G · Aug 3 G · Aug 4 G · Aug 5 G · Aug 6 G · Aug 7 G · Aug 8 R
+Dashboard: http://localhost:4200/?run=climw7bra67&fc=FC-KOL&date=2026-08-08

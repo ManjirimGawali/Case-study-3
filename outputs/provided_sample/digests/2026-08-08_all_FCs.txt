@@ -1,0 +1,5 @@
+FC status Aug 8: 1 GREEN
+
+🟢 FC-PUNE      GREEN  On Aug 8, margins held (CM2 = 18.4%, GREEN) but 3 lines are outside target: Power & Fuel 13.7% (max 13%, +₹650; amount normal, low revenue), Packaging 7.7% (max
+
+Dashboard: http://localhost:4200/?run=climw7br9j6

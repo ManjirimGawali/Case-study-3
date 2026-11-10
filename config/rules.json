@@ -1,0 +1,17 @@
+{
+  "_note": "Line-item ranges are PROVISIONAL (the sample PDF had no target table). Replace with the business's target table, edit on the Settings page, or upload a workbook that contains a target block.",
+  "lines": {
+    "manpower":  { "label": "Manpower",          "group": "cm1", "min": 25, "max": 30 },
+    "packaging": { "label": "Packaging",         "group": "cm1", "min": 4,  "max": 7 },
+    "powerFuel": { "label": "Power & Fuel",      "group": "cm2", "min": 9,  "max": 13 },
+    "rent":      { "label": "FC Rent",           "group": "cm2", "min": 13, "max": 18 },
+    "equipment": { "label": "Equipment Rentals", "group": "cm2", "min": 4,  "max": 8 },
+    "overheads": { "label": "Overheads",         "group": "cm2", "min": 8,  "max": 12 }
+  },
+  "cm1": { "min": 65, "max": 70, "tolerancePp": 3 },
+  "cm2": { "min": 15, "max": 30, "tolerancePp": 3 },
+  "colour": { "red": 12, "yellowLow": 15, "yellowHigh": 30, "blue": 33 },
+  "severity": { "medRupees": 1000, "medPp": 2 },
+  "baseline": { "days": 14, "minDays": 5 },
+  "fcOverrides": {}
+}
